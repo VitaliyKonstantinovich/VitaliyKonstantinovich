@@ -1,6 +1,7 @@
 # Vitaliy Glebov
 
 **QA Engineer / Junior QA**
+
 Manual Testing · API Testing · UI Testing · SQL · Python · Pytest
 
 Я развиваюсь в направлении QA Engineering: ручное тестирование, тест-дизайн, API/UI автотесты, работа с баг-репортами, чек-листами, тест-кейсами и тестовой документацией.
