@@ -18,6 +18,16 @@ https://github.com/VitaliyKonstantinovich/manual-qa-yandex-scooter
 
 ---
 
+### Unit testing
+
+**qa-unit-pytest-stellar-burgers**
+Юнит-тесты бизнес-логики Stellar Burgers на Python, Pytest и pytest-cov. Проверено: 8 тестов, покрытие `praktikum/burger.py` — 100%.
+
+Repository:
+https://github.com/VitaliyKonstantinovich/qa-unit-pytest-stellar-burgers
+
+---
+
 ### API automation
 
 **qa-api-pytest-yandex-scooter**
@@ -54,6 +64,8 @@ https://github.com/VitaliyKonstantinovich/qa-ui-pom-stellar-burgers
 * Allure
 * Git / GitHub
 * DevTools
+* Unit testing
+* pytest-cov
 
 ## Focus
 
