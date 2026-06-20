@@ -1,16 +1,62 @@
-## Hi there 👋
+# Vitaliy Glebov
 
-<!--
-**VitaliyKonstantinovich/VitaliyKonstantinovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA Engineer / Junior QA**
+Manual Testing · API Testing · UI Testing · SQL · Python · Pytest
 
-Here are some ideas to get you started:
+Я развиваюсь в направлении QA Engineering: ручное тестирование, тест-дизайн, API/UI автотесты, работа с баг-репортами, чек-листами, тест-кейсами и тестовой документацией.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio projects
+
+### Manual QA
+
+**manual-qa-yandex-scooter**
+Ручное тестирование сервиса «Яндекс Самокат»: чек-листы, тест-кейсы, тестовые данные и баг-репорты.
+
+Repository:
+https://github.com/VitaliyKonstantinovich/manual-qa-yandex-scooter
+
+---
+
+### API automation
+
+**qa-api-pytest-yandex-scooter**
+API автотесты сервиса «Яндекс Самокат» на Python, Pytest, Requests и Allure.
+
+Repository:
+https://github.com/VitaliyKonstantinovich/qa-api-pytest-yandex-scooter
+
+---
+
+### UI automation
+
+**qa-ui-selenium-stellar-burgers**
+UI автотесты Stellar Burgers на Python, Pytest и Selenium WebDriver.
+
+Repository:
+https://github.com/VitaliyKonstantinovich/qa-ui-selenium-stellar-burgers
+
+## Skills
+
+* Manual testing
+* Test design
+* Checklists
+* Test cases
+* Bug reports
+* API testing
+* UI testing
+* SQL basics
+* Python
+* Pytest
+* Selenium WebDriver
+* Requests
+* Allure
+* Git / GitHub
+* DevTools
+
+## Focus
+
+Сейчас усиливаю базу QA Engineer и двигаюсь от ручного тестирования к автоматизации: Python, Pytest, API/UI tests, GitHub portfolio.
+
+## Location
+
+Syktyvkar / Remote
