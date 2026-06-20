@@ -30,11 +30,11 @@ https://github.com/VitaliyKonstantinovich/qa-api-pytest-yandex-scooter
 
 ### UI automation
 
-**qa-ui-selenium-stellar-burgers**
-UI автотесты Stellar Burgers на Python, Pytest и Selenium WebDriver.
+**qa-ui-pom-stellar-burgers**
+UI автотесты Stellar Burgers на Python, Pytest, Selenium WebDriver и Page Object Model.
 
 Repository:
-https://github.com/VitaliyKonstantinovich/qa-ui-selenium-stellar-burgers
+https://github.com/VitaliyKonstantinovich/qa-ui-pom-stellar-burgers
 
 ## Skills
 
@@ -49,6 +49,7 @@ https://github.com/VitaliyKonstantinovich/qa-ui-selenium-stellar-burgers
 * Python
 * Pytest
 * Selenium WebDriver
+* Page Object Model
 * Requests
 * Allure
 * Git / GitHub
